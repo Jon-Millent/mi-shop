@@ -12,7 +12,7 @@ vue项目-小米移动商城开源版
 
 ### 安装
 ```
-  git clone
+  git clone https://github.com/Jon-Millent/mi-shop.git
   npm install
   npm run dev
 ```
