@@ -36,3 +36,6 @@ vue项目-小米移动商城开源版
 * 我的
 * 商品详情
   * 加入购物车
+
+### LICENSE
+<a href="http://opensource.org/licenses/MIT">MIT</a>
