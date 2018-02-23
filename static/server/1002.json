@@ -1,0 +1,36 @@
+{
+  "id": 1002,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e8f00d32ef069600bf047c05bb5abd6.jpg?bg=AEB9C9"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/3253150a-a1ad-272c-def6-9bcbdc80a92f.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/efa4bb8d-7d7e-b641-52eb-5019cd0d228b.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米Max 2 大屏大电量",
+  "bigContent": "【手机品牌日限时特惠：64GB直降100元，全系可享小米分期最高6期免息】",
+  "smallContent": "6.44''大屏 / 5300mAh 充电宝级的大电量 / 大像素相机 / 轻薄全金属  / ​4GB 大内存 / 骁龙八核处理器",
+  "money": 1999,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "小米Max 2 4GB+128GB 金色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/d75df573-2480-6a80-cf20-17673f1acdce.jpg?w=1080&h=1900&s=176.8",
+    "//i8.mifile.cn/v1/a1/6a4e6f24-c7b2-8891-0d65-45158dbe2806.jpg?w=1080&h=1580&s=104",
+    "//i8.mifile.cn/v1/a1/844d8616-acb7-69bc-e1e8-7afa3110edf4.jpg?w=1080&h=1522&s=123.8",
+    "//i8.mifile.cn/v1/a1/c7848e29-eae0-c51a-ea47-3fcd50b03134.jpg?w=1080&h=2234&s=156.6",
+    "//i8.mifile.cn/v1/a1/a91a66a2-eae9-d602-0e20-5c582e46e6fb.jpg?w=1080&h=1700&s=91.8",
+    "//i8.mifile.cn/v1/a1/00ff0a3a-46fc-b448-1bf7-a2ca73d20c26.jpg?w=1080&h=1384&s=190.2"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

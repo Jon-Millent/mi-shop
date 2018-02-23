@@ -1,0 +1,41 @@
+{
+  "id": 1007,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/91e46304f075e6396d9408e7aada7c56.jpg?bg=DCB6B0"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a28e43b18deeee39cd65608c6414f4b9.jpg?bg=F7F4F0"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a54bcd092a25a23981545c2b4680b164.jpg?bg=CDDBE4"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3949f1620c7326c3f7c6417fbbebe1c5.jpg?bg=FFFFFF"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "红米Note 5A 高配版",
+  "bigContent": " 【手机品牌日限时特惠：32GB用券立减100元，16GB用券立减50元。全系可享小米分期最高6期免息】",
+  "smallContent": "5.5\"高清大屏 / 1600万像素柔光自拍 / 流畅8核处理器 / 2+1卡槽，最高可扩容128GB",
+  "money": 799,
+  "noMoney": 899,
+  "tips": ["直降100元"],
+  "chouse": "红米Note 5A 3GB+32GB 香槟金 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/8ebe2e6e-bd75-b921-fe88-a28f9c6d1e61.jpg?w=1080&h=1920&s=135.5",
+    "//i8.mifile.cn/v1/a1/f1924deb-2454-45ce-b216-6979486cd074.jpg?w=1080&h=1920&s=185.9",
+    "//i8.mifile.cn/v1/a1/b049fa8d-0ac9-629f-f215-b0c57dd56d5c.jpg?w=1080&h=1920&s=175.1",
+    "//i8.mifile.cn/v1/a1/4b83eeb5-5533-5282-56dd-28ad54b504d9.jpg?w=1080&h=1920&s=168.2",
+    "//i8.mifile.cn/v1/a1/1dc92c25-6243-2265-ebb0-899d7635521c.jpg?w=1080&h=1580&s=192.1",
+    "//i8.mifile.cn/v1/a1/cb7c5f36-19bc-17bc-4def-3b3b9f359ffd.jpg?w=1080&h=1499&s=184.8",
+    "//i8.mifile.cn/v1/a1/ed858fc0-3b91-b1e2-8b63-e00677102cf9.jpg?w=1080&h=1920&s=188.8",
+    "//i8.mifile.cn/v1/a1/fad6610e-61ef-06c6-51d4-fb0202c36cda.jpg?w=1080&h=1920&s=178"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

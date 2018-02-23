@@ -1,0 +1,41 @@
+{
+  "id": 1013,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/d01c7d5e-b173-ee99-0e83-4c3a18194c15.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/97f232a7-fc9f-7825-a551-df83c25689f1.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/ff659158-5fee-739e-a880-1c57e13fbfc1.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/39a33ea6-2c0f-dcf1-0b4e-3b96ec9763a8.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米电视4C 43英寸",
+  "bigContent": "【【小米电视超值特价！直降300元，限量抢购！享小米分期3/6期免息】】",
+  "smallContent": "人工智能 / 超窄边 / 全高清屏 / 钢琴烤漆 / 杜比音效 / 高性能 / 大内存 / 海量片源",
+  "money": 1799,
+  "noMoney": 2099,
+  "tips": ["直降300元"],
+  "chouse": "小米电视4C 43英寸 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/d49c096d-2f1c-3981-2925-0d1e7d7691fc.jpg?w=720&h=1106&s=125.3",
+    "//i8.mifile.cn/v1/a1/26846a19-56e6-19b1-8eb4-0e3a0308dd0e.jpg?w=720&h=880&s=120.6",
+    "//i8.mifile.cn/v1/a1/d8c99f4b-c52d-e0ff-23bb-036f4718eb52.jpg?w=720&h=1285&s=94.7",
+    "//i8.mifile.cn/v1/a1/392c9b38-6bd6-c31f-133d-897bc3a828fb.jpg?w=720&h=753&s=87.1",
+    "//i8.mifile.cn/v1/a1/2aaf454d-d94c-e327-7d17-ab311dd4aae4.jpg?w=720&h=1277&s=79.1",
+    "//i8.mifile.cn/v1/a1/72681ec2-f587-df55-9c06-d40f3bd9b348.jpg?w=720&h=1276&s=140.2",
+    "//i8.mifile.cn/v1/a1/215703cb-f21a-0e9c-e658-3efb1926f9fd.jpg?w=720&h=1277&s=108",
+    "//i8.mifile.cn/v1/a1/2d1c49f1-084c-30fd-eb09-45191f6a59a5.jpg?w=720&h=1230&s=124.8"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

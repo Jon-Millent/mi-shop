@@ -1,0 +1,32 @@
+{
+  "id": 1014,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/a7536260-d9aa-b1bd-d20f-9643ab2dbbf5.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米笔记本Air13.3\" 集成显卡",
+  "bigContent": "【小米笔记本超值特价！8G 集显立减200元，限量抢购！享小米期3/6期免息！】",
+  "smallContent": "集显 / 轻薄全金属机身 / 256GB SSD / 第七代 Intel 酷睿i5 处理器 / FHD 全贴合屏幕 / 指纹解锁",
+  "money": 4799,
+  "noMoney": 4999,
+  "tips": ["直降200元"],
+  "chouse": "小米笔记本Air 13.3\" 8G集成显卡 银色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/46a9394288dbb58bed98dc65eb701a63.jpg?w=1080&h=1369",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8a4a9e7c645f799f92659c6018c159a8.jpg?w=1080&h=1643",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3c8bb12ac9bcf996a46aeb9c0e160f7d.jpg?w=1080&h=1606",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/89e035a33709841fc868c0a435fe7052.jpg?w=1080&h=1488",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9270bd1ea127d92ed6834797630aba0e.jpg?w=1080&h=1544",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7a8c387d39e02ee2329cdb52447a88d9.jpg?w=1080&h=1736",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/393f8bfa8d91e134f8994191758070a9.jpg?w=1080&h=2092",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a3cb6492fd8c3c81909bebd3bc00be64.jpg?w=1080&h=1797"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

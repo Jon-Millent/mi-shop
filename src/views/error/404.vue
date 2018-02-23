@@ -1,0 +1,15 @@
+<template>
+  <div>
+    <h1>404</h1>
+  </div>
+</template>
+
+<script type="text/ecmascript-6">
+  export default{
+    name: 'error-404'
+  }
+</script>
+
+<style type="text/css">
+
+</style>

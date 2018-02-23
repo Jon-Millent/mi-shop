@@ -1,0 +1,43 @@
+{
+  "id": 1008,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/2772c71a-ff8d-3770-3ad5-3e934e1857b6.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/83d47422-a043-35a4-3129-8aa5bba6f8db.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/e2f24a38-e021-0638-63a9-16d4e9b2c1f8.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/bec12875-2a3a-9260-0f91-cdae634abf63.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "米家感应夜灯",
+  "bigContent": "",
+  "smallContent": "光敏+红外感应 / 超低功耗 / 亮度双档调节 / 可贴可挂​  ",
+  "money": 49,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "米家感应夜灯 白色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/2d5f5e09-7c39-533d-a8a9-e9c045938eba.jpg?w=1080&h=1619&s=194.2",
+    "//i8.mifile.cn/v1/a1/bb67f181-9b0e-780f-0f1f-b26fd33c1c4b.jpg?w=1080&h=712&s=63.9",
+    "//i8.mifile.cn/v1/a1/77933828-5efa-41f9-a684-37f60e5720e8.jpg?w=1080&h=948&s=79.5",
+    "//i8.mifile.cn/v1/a1/f69f7b91-7f6a-6e61-5956-1122d5c7a036.jpg?w=1080&h=1704&s=188.7",
+    "//i8.mifile.cn/v1/a1/a6d8a4ff-4662-e87a-4e34-a2e19560f139.jpg?w=1080&h=701&s=140.9",
+    "//i8.mifile.cn/v1/a1/c0c3cf1e-22b5-a532-76f6-410deb39edb5.jpg?w=1080&h=1002&s=177.9",
+    "//i8.mifile.cn/v1/a1/cf9c3c66-397b-fda5-efd9-410e02ba3825.jpg?w=1080&h=703&s=56.2",
+    "//i8.mifile.cn/v1/a1/acf0a55c-97d4-45e8-6e96-7df13f56acdc.jpg?w=1080&h=901&s=187.9",
+    "//i8.mifile.cn/v1/a1/41c1e097-62ba-e01f-5b2d-f5c46f308a53.jpg?w=1080&h=964&s=74.5",
+    "//i8.mifile.cn/v1/a1/8e04ed71-c5bf-004e-9292-a399a33d2ef0.jpg?w=1080&h=970&s=77.5"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

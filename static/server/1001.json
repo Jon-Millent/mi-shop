@@ -1,0 +1,41 @@
+{
+  "id": 1001,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/568b07688b343f667c7040a968f3ee97.jpg?bg=FFFFFF"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4ee66087b538923642701afa069f0fb9.jpg?bg=41424E"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e0f474b9d70fea836f25c50e93d46af7.jpg?bg=3E404B"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米Note 3  人脸解锁",
+  "bigContent": " 【手机品牌日限时特惠：128GB 今早10点限时特价秒杀。6+64GB直降200元，4+64GB直降100元。全系可享小米分期最高6期免息】",
+  "smallContent": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+  "money": 2099,
+  "noMoney": 2299,
+  "tips": ["直降200元"],
+  "chouse": "小米Note 3 6GB+64GB 亮黑色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/f6b42e48-8af9-c1c1-5df2-eb1973499aae.jpg?w=1080&h=1735&s=192.6",
+    "//i8.mifile.cn/v1/a1/eb3d5e39-000d-bfb9-acce-e346876cfa94.jpg?w=1080&h=1387&s=171.9",
+    "//i8.mifile.cn/v1/a1/5bb89342-dce9-82d4-59c7-a322376fc1a8.jpg?w=1080&h=1735&s=164",
+    "//i8.mifile.cn/v1/a1/8ba93f97-a966-088d-7aa0-21f3a50f08ea.jpg?w=1080&h=1201&s=120.4",
+    "//i8.mifile.cn/v1/a1/1f2ccbc5-8a7c-39ab-9819-5aec14d533b5.jpg?w=1080&h=1445&s=150.1",
+    "//i8.mifile.cn/v1/a1/9356b62d-e15b-a208-72f0-709fe24f6c48.jpg?w=1080&h=996&s=193.1",
+    "//i8.mifile.cn/v1/a1/a5b0856b-888b-dc1b-a35c-2981dd0e35d3.jpg?w=1080&h=1445&s=169",
+    "//i8.mifile.cn/v1/a1/f8e52783-b598-2dfd-7057-52c285515119.jpg?w=1080&h=1735&s=191.4"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

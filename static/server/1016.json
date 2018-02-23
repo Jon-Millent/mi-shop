@@ -1,0 +1,37 @@
+{
+  "id": 1016,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/3fde72d0-0b44-ef26-fa98-56763d4f5eec.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/cc18adee-2541-e6bc-d713-67f0e306ddc0.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/907dd83a-c180-b54f-5bfa-e25637aead5d.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "8H护颈乳胶枕 Z2",
+  "bigContent": "",
+  "smallContent": "三曲线护颈 / 160克重天竺棉外枕套 / CleanCool抗菌内枕套 / 泰国直采天然乳胶",
+  "money": 239,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "8H护颈乳胶枕  x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/f99ba2c7-e5a4-98a1-a990-75f657842df9.jpg?w=720&h=1090&s=100.5",
+    "//i8.mifile.cn/v1/a1/4144e17c-08fb-cd8d-6636-cad4750b967e.jpg?w=720&h=533&s=98.2",
+    "//i8.mifile.cn/v1/a1/20dfc928-f268-1271-6113-4badf0b39af9.jpg?w=720&h=948&s=94.7",
+    "//i8.mifile.cn/v1/a1/7aa52690-77e8-646d-15c2-1a073f138afa.jpg?w=720&h=474&s=104",
+    "//i8.mifile.cn/v1/a1/c6d8d446-a892-d37c-899b-ba8ee2f86441.jpg?w=720&h=1012&s=84.7",
+    "//i8.mifile.cn/v1/a1/438bce3e-b1c2-5c68-30ed-41991c2f5730.jpg?w=720&h=788&s=92.2",
+    "//i8.mifile.cn/v1/a1/f8c62fa4-82bb-8c7e-f199-59e934c09288.jpg?w=720&h=820&s=97.2"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1010,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/fae2588f951d793f3397fb7c8a170ca7.jpg?bg=FFFFFF"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/193575fa-ea88-19e4-eeeb-b0a9851f2edb.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/f7e01545-f64f-3809-cf56-7aa8c83d3259.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "红米Note 4X 4GB+64GB",
+  "bigContent": "",
+  "smallContent": "5.5\"多彩金属 / 4100mAh 超长续航 / Helio X20 十核旗舰处理器",
+  "money": 1299,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "红米Note 4X 64GB 樱花粉 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/8d58a7bd-d1be-460f-8d24-cc58ecd7f620.jpg?w=720&h=1321&s=143.1",
+    "//i8.mifile.cn/v1/a1/5dfd91e3-1fdf-f0ab-4b45-c78b27d1f0d3.jpg?w=720&h=791&s=124.6",
+    "//i8.mifile.cn/v1/a1/1d80646a-aa12-63bc-8185-50a8d77e171e.jpg?w=1080&h=976&s=159.4",
+    "//i8.mifile.cn/v1/a1/d045a31f-a38a-fd3f-a925-245e152c472a.jpg?w=1080&h=606&s=168.5",
+    "//i8.mifile.cn/v1/a1/d3243fa4-f449-89fb-37e5-7b7b1eac0261.jpg?w=1080&h=1579&s=188.6"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

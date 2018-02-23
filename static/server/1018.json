@@ -1,0 +1,29 @@
+{
+  "id": 1018,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/44777df3-b045-5148-2351-110a9d723ec5.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米影视会员年卡",
+  "bigContent": "",
+  "smallContent": "",
+  "money": 698,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "小米影视会员年卡 券 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/b2c-mimall-media/10ac2160b8be4517afa18f755f028c90.jpg?w=720&h=867",
+    "//i8.mifile.cn/b2c-mimall-media/f72e1cbdb74567c9800637659cd1c88e.jpg?w=720&h=359",
+    "//i8.mifile.cn/b2c-mimall-media/73dd8f61b97d494495e51007b83cee29.jpg?w=720&h=816",
+    "//i8.mifile.cn/b2c-mimall-media/2d9740a8e381855d38e0edc08e56b1f1.jpg?w=720&h=785",
+    "//i8.mifile.cn/b2c-mimall-media/ea61528e427e1dd48cf1373d284c69f3.jpg?w=720&h=785"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

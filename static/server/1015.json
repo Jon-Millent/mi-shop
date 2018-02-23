@@ -1,0 +1,41 @@
+{
+  "id": 1015,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/3c4e1ff9-ae8f-b531-8809-0c402425e839.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/6a4ab409-6fef-991f-931b-b6eba47dea24.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/06c6c1ea-099d-0a83-be1a-3df3c61e3e8a.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/41d9bee4-b794-de6d-87c7-3c590b0fc049.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "TS 基础级防蓝光护目镜",
+  "bigContent": "【TS防蓝光眼镜一件包邮】",
+  "smallContent": "35%蓝光阻隔率，UV400，超轻材质，佩戴舒适 ",
+  "money": 99,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "TS防蓝光眼镜  米家定制 黑色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/3117902b-9ffc-7e62-95ed-bbb982747721.jpg?w=1080&h=1943&s=191.9",
+    "//i8.mifile.cn/v1/a1/9f6e919f-fbf5-3984-05b3-7c342027c6d8.jpg?w=1080&h=743&s=150.7",
+    "//i8.mifile.cn/v1/a1/6cf1929e-5abf-4b02-9e49-b3d5e5b8cbc5.jpg?w=1080&h=746&s=152",
+    "//i8.mifile.cn/v1/a1/327fa5c2-3184-cc5e-bdf7-dd4fb5411530.jpg?w=1080&h=897&s=58.8",
+    "//i8.mifile.cn/v1/a1/d1bafc2c-8535-d579-e61d-2885635cfaa1.jpg?w=1080&h=1089&s=56.2",
+    "//i8.mifile.cn/v1/a1/d11034a8-3357-7ef1-84c6-6f8a2ade6387.jpg?w=1080&h=908&s=194",
+    "//i8.mifile.cn/v1/a1/97aadb48-0279-9a45-f700-cffc05194ef9.jpg?w=1080&h=848&s=128.5",
+    "//i8.mifile.cn/v1/a1/00092f47-10df-4d51-5efe-7e1bdc39e62c.jpg?w=1080&h=1410&s=124.8"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

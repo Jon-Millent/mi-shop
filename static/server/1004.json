@@ -1,0 +1,34 @@
+{
+  "id": 1004,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f2230cfe9ac3090ebd6d5d9c2a0fdec3.jpg?bg=827470"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/de841794fcfe9bd6652f24497db805ff.jpg?bg=FFFFFF"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米电视4A 50英寸",
+  "bigContent": " 【新品预约，享首卖直降100元！1月23日0点，小米电视品牌日限量开抢！】",
+  "smallContent": "4K HDR / 人工智能 / 蓝牙语音遥控器 / 高性能 / 大存储 / 海量片源",
+  "money": 2399,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "小米电视4A 50英寸 黑色 50英寸 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/b2c-mimall-media/8e6129ea42249c3d16f37aaefb64afaa.jpg?w=1080&h=889",
+    "//i8.mifile.cn/b2c-mimall-media/a9e9476909140b7271792c405c8d69c6.jpg?w=1080&h=966",
+    "//i8.mifile.cn/b2c-mimall-media/278d347ae8f5a80735bc2d2468499351.jpg?w=1080&h=996",
+    "//i8.mifile.cn/b2c-mimall-media/a4b8cac40f64510109e61893a4cabde9.jpg?w=1080&h=1059",
+    "//i8.mifile.cn/b2c-mimall-media/03d5d1fcc3c289777ad73c698018b860.jpg?w=1080&h=803",
+    "//i8.mifile.cn/b2c-mimall-media/d43a1a7013249801ebb847150d8951c5.jpg?w=1080&h=1010",
+    "//i8.mifile.cn/b2c-mimall-media/fae38c35bf766980450a83ffeed20b37.jpg?w=1080&h=642"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1009,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f69d69f7764aa198143cbef94e74b1c0.jpg?bg=FFFFFF"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a915affaaeb3695f6678319cbb1733fc.jpg?bg=FFFFFF"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8abbaf0a4302a88c95272d9ba3b23eff.jpg?bg=FFFFFF"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/72d792f2f942ad47e59251eacdba0cd5.jpg?bg=FFFFFF"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/0a89b8d3f08dbf1643e3345463f3a996.jpg?bg=FFFFFF"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "红米5 Plus 64GB",
+  "bigContent": "【手机品牌日：赠送耳机，可享小米分期最高6期免息】",
+  "smallContent": "千元全面屏 / 4000mAh大电量 / 前置柔光自拍 / 14nm骁龙八核处理器",
+  "money": 1299,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "红米5 Plus 4GB+64GB 金色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/b2c-mimall-media/b6b3ddf1ceaf0ba210bf32959eb1cd01.jpg?w=1080&h=1912",
+    "//i8.mifile.cn/b2c-mimall-media/448fff990514265efa8ca0e0e28e6ed9.jpg?w=1080&h=1087",
+    "//i8.mifile.cn/b2c-mimall-media/2e11015f629b11904a648b16c71e7076.jpg?w=1080&h=1916",
+    "//i8.mifile.cn/b2c-mimall-media/5d186ec0c3cbc430cf0e8cac4cc3b0d6.jpg?w=1080&h=1923",
+    "//i8.mifile.cn/b2c-mimall-media/93a0c776276b92b7ea2a6cdb4b7a13c4.jpg?w=1080&h=1918",
+    "//i8.mifile.cn/b2c-mimall-media/a0564ce192154123843fc006ed66a84a.jpg?w=1080&h=1921",
+    "//i8.mifile.cn/b2c-mimall-media/1619041a9f1fb805d7c2087a8212cc2f.jpg?w=1080&h=1921"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

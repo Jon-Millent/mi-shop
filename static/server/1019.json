@@ -1,0 +1,40 @@
+{
+  "id": 1019,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/c9a009e7-92e0-ff85-455b-67cf8a43b686.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/1e3f23f8-0970-7589-0980-e9c6124752f0.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/eaec59bc-4a64-ad7b-2586-26ea110feb0b.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/c9a009e7-92e0-ff85-455b-67cf8a43b686.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米5s",
+  "bigContent": "",
+  "smallContent": "“暗夜之眼”超感光相机 / 无孔式超声波指纹识别 / 骁龙 821 旗舰处理器 / 全金属一体化机身",
+  "money": 1999,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "小米5s 3GB+64GB 玫瑰金色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/7020f031-c77e-09a8-be02-c2262761c352.jpg?w=1080&h=1919&s=146",
+    "//i8.mifile.cn/v1/a1/3e6ba448-d113-140f-260e-4d3683869e17.jpg?w=1080&h=996&s=64.2",
+    "//i8.mifile.cn/v1/a1/fbf396cc-5e2c-8406-6cdc-1e1e7aa62c07.jpg?w=1080&h=1374&s=47.9",
+    "//i8.mifile.cn/v1/a1/ef30435b-4ac2-2e80-b061-6c3cd879307f.jpg?w=1080&h=1014&s=71.2",
+    "//i8.mifile.cn/v1/a1/af8ec843-1e94-64fc-292b-5eac7b2b4dae.jpg?w=720&h=919&s=103.2",
+    "//i8.mifile.cn/v1/a1/4d68f683-ff10-4cd9-51c3-2a9bdadf8a8a.jpg?w=1080&h=1382&s=96.5",
+    "//i8.mifile.cn/v1/a1/f0cda212-2805-c03b-f879-dfa2fc3db3e0.jpg?w=1080&h=1343&s=129.4"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

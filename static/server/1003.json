@@ -1,0 +1,44 @@
+{
+  "id": 1003,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/275b4b53477b55f38c9d9b7fdf4d913b.jpg?bg=684A46"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/6032b8e2da8a594dee39bdfbe00f2070.jpg?bg=E2C3B9"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/774605857f1898b1f1bb64a6cf072aa4.jpg?bg=3B3B42"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c246f78a5205a96ebaeb805f77ca1ff4.jpg?bg=EAD8D1"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b53d027c5553458e19e2ac5943ccde8a.jpg?bg=E5C5BA"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米MIX 2  全面屏2.0",
+  "bigContent": "【手机品牌日限时特惠：直降300元（不含斯塔克版本），全陶瓷尊享版限时特价秒杀，全系可享小米分期最高6期免息】",
+  "smallContent": "全面屏2.0，5.99\"大屏 / 骁龙835旗舰处理器 / 4轴光学防抖 / 6模43频，全球频段。",
+  "money": 2999,
+  "noMoney": 3299,
+  "tips": ["直降300元"],
+  "chouse": "小米MIX 2 6GB+64GB 黑色陶瓷 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/c5f6d8bb-dbdb-901f-38fc-4cf7aea1fb86.jpg?w=1080&h=1924&s=177.7",
+    "//i8.mifile.cn/v1/a1/d9ac9b4f-1665-6e89-255c-c8dfc2feb0bb.jpg?w=1080&h=1920&s=175.8",
+    "//i8.mifile.cn/v1/a1/c056bbb1-6526-75fe-5311-26b44c48de30.jpg?w=1080&h=2108&s=165.3",
+    "//i8.mifile.cn/v1/a1/784c2b86-04af-e26d-8838-5adbc1df6cac.jpg?w=1080&h=1673&s=176.3",
+    "//i8.mifile.cn/v1/a1/2b1127b8-eba1-95e7-bb2b-3b4da5126b69.jpg?w=1080&h=1123&s=46.6",
+    "//i8.mifile.cn/v1/a1/f68d5e02-f395-1ff7-e68d-2f2bca54bedc.jpg?w=1080&h=1924&s=66.5",
+    "//i8.mifile.cn/v1/a1/e6abf914-d5bc-fe69-8e18-bc723d461e35.jpg?w=1080&h=1920&s=108.7",
+    "//i8.mifile.cn/v1/a1/89f62bc7-2098-63d1-ca94-46f4daa95470.jpg?w=1080&h=1917&s=147.1"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

@@ -1,0 +1,366 @@
+
+@import './util.sass'
+
+
+html,body,div,h1,h2,h3,h4,h5,h6,p,img,ul,li,input,span,a,i
+  padding:
+  margin: 0
+html
+  font-family: "microsoft yahei", "HanHei SC","PingHei","PingFang SC","STHeitiSC-Light","Helvetica Neue","Helvetica","Arial",sans-serif
+img
+  border: none
+  vertical-align: top
+  width: 100%
+a
+  text-decoration: none
+
+input,textarea,button
+  outline: none
+  -webkit-appearance: none
+
+textarea
+  resize: none
+  overflow: hidden
+
+li
+  list-style: none
+*
+  -webkit-tap-highlight-color: rgba(0,0,0,0)
+  -webkit-tap-highlight-color: transparent
+
+.clear
+  zoom: 1
+.clear:after
+  content: ""
+  display: block
+  clear: both
+.fl,.pull-left
+  float: left
+.fr,.pull-right
+  float: right
+.section
+  width: 100%
+  position: relative
+.section-center
+  padding: 0 0.413rem
+  position: relative
+.full
+  width: 100%
+.absolute
+  position: absolute
+.relative
+  position: relative
+.noscroll::-webkit-scrollbar
+  width: 0px
+  height: 0px
+a
+  -webkit-tap-highlight-color: rgba(0,0,0,0)
+
+html,body,div,h1,h2,h3,h4,h5,h6,p,img,ul,li,input,span,a,i
+  padding: 0
+  margin: 0
+html, body
+  padding: 0px
+  margin: 0px
+  width: 100%
+  height: 100%
+  overflow: hidden
+
+html
+  font-size: -webkit-calc(10vw) /* hack for internet is slow the rem is not load. */
+  font-size: calc(10vw)
+
+
+body
+  @include f14px
+  width: 10rem
+  margin: 0 auto
+  position: relative
+  background-color: #F5F5F5
+
+.app-init
+  position: absolute
+  left: 0px
+  top: 0px
+  right: 0px
+  bottom: 0px
+
+.scroll-box
+  -webkit-overflow-scrolling : touch
+  overflow-y: auto
+
+.scroll-box-x
+  -webkit-overflow-scrolling : touch
+  overflow-x: auto
+
+.loading-bar
+  position: absolute
+  z-index: 400
+  width: 100%
+  height: 2px
+  left: 0px
+  top: 0px
+.loading-bar
+  span.press
+    display: block
+    float: left
+    width: 0%
+    height: 100%
+    background-color: #FFCB30
+    transition: all 0.4s cubic-bezier(.55,0,.1,1)
+
+
+
+.loading-bar.loading span.press
+  width: 10%
+  opacity: 1
+
+.loading-bar.end span.press
+  width: 100%
+  opacity: 1
+
+.loading-bar.hide span.press
+  opacity: 0
+  width: 100%
+
+.loading-bar.normal span.press
+  opacity: 0
+  width: 0%
+
+/* 路由动画 */
+.slide-go-enter-active,.slide-go-leave-active,.slide-back-enter-active,.slide-back-leave-active
+  @include ani01-transform
+
+
+.slide-go-leave
+  -webkit-transform: translate3d(0,0,0)
+  transform: translate3d(0,0,0)
+
+.slide-go-leave-to
+  -webkit-transform: translate3d(-100%,0,0)
+  transform: translate3d(-100%,0,0)
+
+
+.slide-go-enter
+  -webkit-transform: translate3d(100%,0,0)
+  transform: translate3d(100%,0,0)
+
+.slide-go-enter-to
+  -webkit-transform: translate3d(0%,0,0)
+  transform: translate3d(0%,0,0)
+
+.slide-back-leave
+  -webkit-transform: translate3d(0,0,0)
+  transform: translate3d(0,0,0)
+
+.slide-back-leave-to
+  -webkit-transform: translate3d(100%,0,0)
+  transform: translate3d(100%,0,0)
+
+
+.slide-back-enter
+  -webkit-transform: translate3d(-100%,0,0)
+  transform: translate3d(-100%,0,0)
+
+.slide-back-enter-to
+  -webkit-transform: translate3d(0%,0,0)
+  transform: translate3d(0%,0,0)
+
+.footer-hack:after
+  content: ''
+  display: block
+  width: 100%
+  padding-bottom: 1.44rem
+
+.footer.leave
+  transform: translateY(100%)
+
+.footer
+  position: absolute
+  z-index: 400
+  background-color: #fff
+  bottom: 0px
+  width: 100%
+  height: $footerHeight
+  left: 0
+  transform: translateY(0)
+  -webkit-transition: transform .4s cubic-bezier(.55,0,.1,1)
+  transition: transform .4s cubic-bezier(.55,0,.1,1)
+  @include box-sizing
+  -webkit-box-shadow: 0 3px 14px 2px rgba(0,0,0,.12)
+  box-shadow: 0 3px 14px 2px rgba(0,0,0,.12)
+
+  .footer-item
+    width: 25%
+    text-align: center
+    float: left
+    color: #999
+    font-size: 0.32rem
+    padding-bottom: 0.1rem
+    padding-top: 0.12rem
+    .icon
+      font-size: 0.6rem
+  .footer-item.active
+    color: #ff6700
+  .shop-car
+    position: relative
+    .num
+      position: absolute
+      width: 0.5rem
+      height: 0.5rem
+      border-radius: 50%
+      line-height: 0.5rem
+      text-align: center
+      background-color: #f95c52
+      color: #fff
+      right: 0.38rem
+      top: 0.05rem
+    .full
+      font-size: 0.28rem
+/* style factory */
+
+.public-header
+  background-color: #F2F2F2
+  box-shadow: 0 2px 4px -1px rgba(0,0,0,.2)
+  z-index: 100
+  position: relative
+  .search-box
+    padding: getIphonese(16px) 0
+    padding-bottom: getIphonese(16px)
+    .logo
+      width: getIphonese(43px)
+      padding: 0 getIphonese(23px)
+      line-height: getIphonese(54px)
+      color: #ff6b00
+      font-size: 0.7rem
+
+    .input-box
+      position: absolute
+      left: getIphonese(89px)
+      right: getIphonese(89px)
+      height: getIphonese(58px)
+      top: getIphonese(15px)
+
+      .input-controller
+        @include box-sizing
+        @include f14px
+        width: 100%
+        height: 100%
+        border: 1px solid #e5e5e5
+        border-radius: 4px
+        padding-left: getIphonese(54px)
+        line-height: getIphonese(54px)
+
+      .input-controller::placeholder
+        color: rgba(0, 0, 0, 0.3)
+      .icon-sousuo-copy
+        font-size: 0.44rem
+        color: #9c9c9c
+        left: getIphonese(17px)
+        top: 0
+        line-height: getIphonese(56px)
+
+        opacity: 0.6
+    .myself-center
+      width: getIphonese(89px)
+      text-align: center
+      line-height: getIphonese(54px)
+      color: #727272
+      font-size: 0.6rem
+  .menu-box
+    .wrap-box
+      width: auto
+      white-space: nowrap
+      .item
+        padding: 0 getIphonese(19px)
+        padding-bottom: 1px
+        color: #7c7c7c
+        display: inline-block
+        span
+          display: inline-block
+          line-height: getIphonese(70px)
+          position: relative
+      .item.active
+        color: #ed5b00
+      .item.active span:after
+        content: ''
+        display: inline-block
+        position: absolute
+        bottom: 0px
+        left: 0px
+        width: 100%
+        height: 2px
+        background-color: #ed5b00
+
+img
+  transition: opacity .5s ease
+  opacity: 1
+
+img[lazy="loading"]
+  opacity: 0
+
+
+.shop-item
+  margin-top: 0.15rem
+
+.href
+  width: 4.96rem
+
+.shop-item
+  .shop-box-item
+    width: 50%
+    float: left
+    margin-bottom: 0.24rem
+    @include box-sizing
+
+  .shop-box-item  p
+      padding: 0 0.2rem
+  .shop-box-item  p.title
+    padding-top: 0.2rem
+    font-size: .36rem
+    color: rgba(0,0,0,.87)
+  .shop-box-item img
+    min-height: 4.96rem
+
+  .shop-box-item  p.con
+    margin-top: .06rem
+    font-size: .32rem
+    line-height: .38rem
+    color: rgba(0,0,0,.54)
+  .shop-box-item p.money
+    font-size: .38rem
+    color: #ea625b
+    padding-top: 0.05rem
+  .shop-box-item p.money .small
+    font-size: 0.3rem
+  .shop-box-item:nth-child(odd)
+    padding-right: 0.03rem
+  .shop-box-item:nth-child(even)
+    padding-left: 0.03rem
+
+
+.touch-item-box
+  margin-bottom: 0.2rem
+  .touch-item:last-child
+    border-bottom: none
+  .touch-item:active
+    background-color: #eee
+  .touch-item
+    line-height: getIphonese(80px)
+    background-color: #fff
+    color: rgba(0,0,0,.87)
+    position: relative
+    border-bottom: 1px solid #D9D9D9
+
+    padding: 0 0.4rem
+    @include f12px
+    .key
+      color: rgba(0,0,0,.54)
+      padding-right: 0.2rem
+
+  .touch-item:after
+    font-family: 'iconfont'
+    content: "\e628"
+    position: absolute
+    right: getIphonese(26px)
+    color: #3E3E3E

@@ -1,0 +1,36 @@
+{
+  "id": 1011,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/99bb5a3e-a1e5-90d1-bd2b-cf23f35365de.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/26e25458-e350-f4e2-cd55-d0eedbfc0d46.jpg"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/fb54f6d2-b515-1359-a5cd-6d8b922b0f89.jpg"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米手环2",
+  "bigContent": "【小米手环2一件包邮】",
+  "smallContent": "OLED显示屏，时间、步数、心率，触手可及 / 全新腕带设计，升级计步算法 / 精准心率监测，科学运动自主掌握",
+  "money": 149,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "小米手环 2 黑色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/c674dd7b-a12e-0b86-ac82-961b05841fb6.jpg?w=720&h=906&s=91.4",
+    "//i8.mifile.cn/v1/a1/53c199f3-05da-7f0e-64c2-6e5648a178a6.jpg?w=720&h=743&s=97",
+    "//i8.mifile.cn/v1/a1/2c60a04b-d1d7-70ad-e9de-6d2a5cb9bbd8.jpg?w=720&h=611&s=94.2",
+    "//i8.mifile.cn/v1/a1/33b14084-4bde-ca08-cdcb-641bd13163c3.jpg?w=1080&h=886&s=138.3",
+    "//i8.mifile.cn/v1/a1/fb0dc70b-0957-b938-bca6-f4ba7120898b.jpg?w=1080&h=1304&s=94.1",
+    "//i8.mifile.cn/v1/a1/d7c27f02-d35b-1d44-1246-0dccae8989be.jpg?w=720&h=817&s=97.5"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

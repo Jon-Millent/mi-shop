@@ -1,0 +1,28 @@
+$iphoneseWidth : 640px
+
+$backHeaderHeight : 1.5625rem
+$footerHeight : 1.43rem
+
+
+
+@function getIphonese($n)
+  @return ($n / ($iphoneseWidth / 10)) *1rem
+
+@mixin box-sizing
+  -webkit-box-sizing: border-box
+  box-sizing: border-box
+
+@mixin f14px
+  font-size: 0.38rem
+
+@mixin f12px
+  font-size: 0.34rem
+
+
+@mixin ani01-all
+  -webkit-transition: all 0.4s cubic-bezier(.55,0,.1,1)
+  transition: all 0.4s cubic-bezier(.55,0,.1,1)
+
+@mixin ani01-transform
+  -webkit-transition: transform 0.4s cubic-bezier(.55,0,.1,1)
+  transition: transform 0.4s cubic-bezier(.55,0,.1,1)

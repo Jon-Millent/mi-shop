@@ -1,0 +1,35 @@
+{
+  "id": 1005,
+  "banner": [
+    {
+      "src": "//i8.mifile.cn/v1/a1/07665aad-7cae-8008-9bc1-588f4311a230.jpg?bg=D2CBCD"
+    },
+    {
+      "src": "//i8.mifile.cn/v1/a1/331a4489-06ea-c7dc-11b3-a7f296c26e15.jpg?bg=938179"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "米家 iHealth 体温计",
+  "bigContent": "",
+  "smallContent": "一秒速测 / 非接触式测量 / 德国海曼传感器 / LED屏清晰读数",
+  "money": 129,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "iHealth体温计 白色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/eab1cbcf-a0da-324a-b083-6f3271bb4902.jpg?w=1080&h=1685&s=168.8",
+    "//i8.mifile.cn/v1/a1/7a5a962b-0f91-42ce-8834-20fe4d2f5f16.jpg?w=1080&h=1659&s=185.9",
+    "//i8.mifile.cn/v1/a1/ce54298d-fa51-3fc8-418c-9facdd5c2bed.jpg?w=1080&h=2043&s=191.1",
+    "//i8.mifile.cn/v1/a1/7a57c1ac-b50b-25fe-13f0-d7e1bcff6806.jpg?w=1080&h=1077&s=192.6",
+    "//i8.mifile.cn/v1/a1/eeeed0c0-0a5b-8b83-eea6-61ddbdb56b2c.jpg?w=1080&h=1481&s=188.9",
+    "//i8.mifile.cn/v1/a1/e829e122-febe-d389-6da6-7929e0fe35e2.jpg?w=1080&h=1393&s=178.3",
+    "//i8.mifile.cn/v1/a1/e660d09c-7051-147e-27f0-281300f0a705.jpg?w=1080&h=1362&s=188.3",
+    "//i8.mifile.cn/v1/a1/d9335b43-b076-3ee9-c98c-1fb5bb7507a3.jpg?w=1080&h=1588&s=188.6"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

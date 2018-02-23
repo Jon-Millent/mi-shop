@@ -1,0 +1,37 @@
+{
+  "id": 1017,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e9f783356e223874ecf6e13bd4eb90ad.jpg?bg=EEDAC9"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/29232e23fd61eeb8e6027bc71e6e2c19.jpg?bg=FAFAFA"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/2858b59b5e03a14c29e6e56e04f7b786.jpg?bg=F8EFED"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "小米盒子3 增强版 ",
+  "bigContent": "【小米盒子“暖心特价”！直降50元，限量抢购！】",
+  "smallContent": "全新升级64位 4K网络机顶盒 / 2GB内存 + 8GB容量 / 标配蓝牙语音遥控器",
+  "money": 399,
+  "noMoney": 449,
+  "tips": ["直降50元"],
+  "chouse": "小米盒子3增强版 白色 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//i8.mifile.cn/v1/a1/T1hRJjB5Yv1RXrhCrK.jpg?w=720&h=609&s=87.6",
+    "//i8.mifile.cn/v1/a1/T12ADjBjAT1RXrhCrK.jpg?w=720&h=1136&s=65.9",
+    "//i8.mifile.cn/v1/a1/T1FcAjByJv1RXrhCrK.jpg?w=720&h=505&s=81.8",
+    "//i8.mifile.cn/v1/a1/T1VuhjBjVT1RXrhCrK.jpg?w=720&h=559&s=95.7",
+    "//i8.mifile.cn/v1/a1/T1pRhjBCEv1RXrhCrK.jpg?w=720&h=531&s=69.6",
+    "//i8.mifile.cn/v1/a1/T124WjByJv1RXrhCrK.jpg?w=720&h=660&s=88.9",
+    "//i8.mifile.cn/v1/a1/T1mWxvBQ_v1RXrhCrK.jpg?w=720&h=996&s=96.7"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}

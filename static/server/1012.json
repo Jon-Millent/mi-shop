@@ -1,0 +1,37 @@
+{
+  "id": 1012,
+  "banner": [
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/afbb5df7b98e722569c8dc93322a468c.jpg?bg=CAC2BA"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/83daca0c546dfb309c81f7e4eee5b48d.jpg?bg=DCD8CF"
+    },
+    {
+      "src": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/852cf4291630f1b2355759f92ae757d4.jpg?bg=DAD1CA"
+    }
+  ],
+  "hot": "http://i8.mifile.cn/b2c-mimall-media/7f1f2647d4349daa23978fffab7bb4ad.jpg",
+  "hotLink": "/detail/1001",
+  "title": "米家四位四控插线板",
+  "bigContent": "",
+  "smallContent": "四位分控 / 随用随开 / 满足更多用电需求",
+  "money": 89,
+  "noMoney": "",
+  "tips": [],
+  "chouse": "米家四位四控插线板 白色 通用 x1",
+  "address": ["北京市", "东城区"],
+  "pBox": [
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b27fe0ea16528c694de1cc29992ce26f.jpg?w=1080&h=1300",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e32646ac3c420299196e0d79bcc39721.jpg?w=1080&h=716",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f4dc0de18855014cefe446ecb163cd17.jpg?w=1080&h=1312",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/652b91e8f79c96ec20a511fef982d12c.jpg?w=1080&h=431",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/334fffc58ca94e5956728653201ed4d7.jpg?w=1080&h=608",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4998c7c870b9f734c03d50cd3272b282.jpg?w=1080&h=1812",
+    "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b2170aeefeed5dc79badfafbd76006ac.jpg?w=1080&h=1029"
+  ],
+
+  "msg": "请求成功",
+  "code": 200,
+  "mit": "本程序由 jon-millent 独自开发，github@ github.com/jon-millent"
+}
