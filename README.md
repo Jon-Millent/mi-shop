@@ -1,5 +1,5 @@
 # mi-shop
-vue实例项目-小米移动商城
+vue项目-小米移动商城开源版
 
 ### DEMO
 <div align="center">
@@ -9,6 +9,8 @@ vue实例项目-小米移动商城
 <div align="center">
   <a href="show.thisummer.com/mi">在线演示</a>
 </div>
+
+### 安装
 ```
   git clone
   npm install
