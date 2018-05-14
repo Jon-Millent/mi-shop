@@ -13,6 +13,7 @@ vue项目-小米移动商城开源版，本人业余时间花费一周开发。�
 ## 安装
 ```
   git clone https://github.com/Jon-Millent/mi-shop.git
+  cd mi-shop
   npm install
   npm run dev
 ```
