@@ -31,6 +31,7 @@ router.beforeEach((to, from, next)=>{
       next()
     }else{
       router.openPage('/error/110')
+      next()
     }
   }
   */
