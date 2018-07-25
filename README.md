@@ -37,6 +37,7 @@ vue项目-小米移动商城开源版，本人业余时间花费一周开发。�
 * 我的
 * 商品详情
   * 加入购物车
-
+## 请我喝杯咖啡，支持更多开源
+![1024.png](https://i.loli.net/2018/07/25/5b57cb91a44a1.png)
 ## LICENSE
 <a href="http://opensource.org/licenses/MIT">MIT</a>
