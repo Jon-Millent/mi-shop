@@ -10,14 +10,14 @@ vue项目-防小米移动商城开源版，比官方小米商城还流畅。代�
   <a href="http://show.thisummer.com/mi">在线演示</a>
 </div>
 
-## 安装
+## Install
 ```
   git clone https://github.com/Jon-Millent/mi-shop.git
   cd mi-shop
   npm install
   npm run dev
 ```
-## 模块
+## Module
 * 首页
   * 推荐
   * 手机
