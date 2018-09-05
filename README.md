@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo" src="https://vuejs.org/images/logo.png" width="100" max-width="100%">
+  <img alt="logo" src="https://s01.mifile.cn/i/logo.png" width="100" max-width="100%">
 </p>
 
 <p align="center">
