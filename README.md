@@ -28,7 +28,10 @@ vue项目-防小米移动商城开源版，比官方小米商城还流畅。代�
 </h4>
 
 
-#### DEMO
+<h5 align="center">
+DEMO
+</h4>
+
 <div align="center">
   <img src="https://qr.api.cli.im/qr?data=http%253A%252F%252Fshow.thisummer.com%252Fmi&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=22999c679b90305351c44aff4cf5456c">
   
