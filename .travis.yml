@@ -1,0 +1,17 @@
+language: node_js
+
+node_js:
+  - "8"
+
+sudo: false
+
+branches:
+   only:
+   - master
+
+cache:
+  directories:
+    - ".eslintcache"
+    - "node_modules"
+
+after_script: "npm run build"
