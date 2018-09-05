@@ -1,7 +1,34 @@
-# mi-shop
-vue项目-防小米移动商城开源版，比官方小米商城还流畅。代码可自由更改，转载请注明出处，切勿用于商业用途。
+<p align="center">
+  <img alt="logo" src="https://vuejs.org/images/logo.png" width="100" max-width="100%">
+</p>
 
-## DEMO
+<p align="center">
+  
+  <a href="https://travis-ci.org/Jon-Millent/mi-shop" title="Build">
+    <img src="https://travis-ci.org/Jon-Millent/mi-shop.svg?branch=master" alt="Build">
+  </a>
+  <a href="https://opensource.org/licenses/mit-license.php">
+    <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/package-json/v/jon-millent/faker.svg">
+  </a>
+  <a href="#">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103">
+  </a>
+  
+</p>
+
+<h1 align="center">
+mi-shop
+</h1>
+
+<h4 align="center">
+vue项目-防小米移动商城开源版，比官方小米商城还流畅。代码可自由更改，转载请注明出处，切勿用于商业用途。
+</h4>
+
+
+#### DEMO
 <div align="center">
   <img src="https://qr.api.cli.im/qr?data=http%253A%252F%252Fshow.thisummer.com%252Fmi&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=22999c679b90305351c44aff4cf5456c">
   
