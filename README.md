@@ -33,7 +33,7 @@ DEMO
 </h4>
 
 <div align="center">
-  <img src="https://qr.api.cli.im/qr?data=http%253A%252F%252Fshow.verydog.cn%252Fmi&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=22999c679b90305351c44aff4cf5456c">
+  <img src="https://qr.api.cli.im/qr?data=https%253A%252F%252Fshow.verydog.cn%252Fmi&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=260&kid=cliim&key=642d8a98986326a273894395c665e2f0">
   
 </div>
 <div align="center">
