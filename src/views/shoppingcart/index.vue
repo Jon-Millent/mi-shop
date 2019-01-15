@@ -31,7 +31,7 @@
       </div>
 
       <div class="gass-you-like">
-        <img src="http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/e95ade2750a7fde92369b416c7d3176d.jpg" alt="">
+        <img src="http://qiniu.verydog.cn//show.liluo.cc/e95ade2750a7fde92369b416c7d3176d.jpg" alt="">
       </div>
       <div class="shop-item">
         <div class="shop-box clear">
@@ -73,42 +73,42 @@
       return {
         shoplist : [
           {
-            src: 'http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
+            src: 'http://qiniu.verydog.cn//show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
             title: '13.3"笔记本i5 独显',
             con: '指纹解锁，全金属机身',
             money: 5199,
             href: '/detail/1006'
           },
           {
-            src: 'http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
+            src: 'http://qiniu.verydog.cn//show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
             title: '13.3"笔记本i5 独显',
             con: '指纹解锁，全金属机身',
             money: 5199,
             href: '/detail/1006'
           },
           {
-            src: 'http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
+            src: 'http://qiniu.verydog.cn//show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
             title: '13.3"笔记本i5 独显',
             con: '指纹解锁，全金属机身',
             money: 5199,
             href: '/detail/1006'
           },
           {
-            src: 'http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
+            src: 'http://qiniu.verydog.cn//show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
             title: '13.3"笔记本i5 独显',
             con: '指纹解锁，全金属机身',
             money: 5199,
             href: '/detail/1006'
           },
           {
-            src: 'http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
+            src: 'http://qiniu.verydog.cn//show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
             title: '13.3"笔记本i5 独显',
             con: '指纹解锁，全金属机身',
             money: 5199,
             href: '/detail/1006'
           },
           {
-            src: 'http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
+            src: 'http://qiniu.verydog.cn//show.liluo.cc/cf0b9ede4dbbc115f3d2d1b032e97d21.jpg',
             title: '13.3"笔记本i5 独显',
             con: '指纹解锁，全金属机身',
             money: 5199,
