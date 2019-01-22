@@ -19,7 +19,7 @@
           <div class="press">
             <span class="money" v-if="info.money">￥{{ info.money }}</span>
             <span class="no-money" v-if="info.noMoney">￥{{ info.noMoney }}</span>
-            <span class="tips" v-for="target in info.tips">{{ target }}</span>
+            <span class="tips" v-for="(target, index) in info.tips" :key="index">{{ target }}</span>
           </div>
         </div>
 
@@ -30,7 +30,7 @@
           </div>
           <div class="touch-item">
             <span class="key">送至</span>
-            <span v-for="target in info.address">{{ target }}</span>
+            <span v-for="(target, index) in info.address" :key="index">{{ target }}</span>
           </div>
         </div>
 
@@ -41,7 +41,7 @@
         </div>
 
         <div class="p-box">
-          <img v-for="target in info.pBox" v-lazy="target" alt="">
+          <img v-for="(target, index) in info.pBox" :key="index" v-lazy="target" alt="">
         </div>
 
       </div>
@@ -121,7 +121,7 @@
         if(!id){
           this.$router.replace('/error/404')
         }
-        axios.get('./static/server/'+id+'.json')
+        axios.get('./server/'+id+'.json')
           .then(response=> {
 
             this.info = response.data;
@@ -130,7 +130,7 @@
               this.hide = false
             }, 1000)
           })
-          .catch(error=> {
+          .catch(()=> {
             this.$router.replace('/error/404')
           });
       },
@@ -156,7 +156,7 @@
             root.$refs.bool.style.webKitTransform = position
             root.$refs.bool.style.transform = position
           },
-          onFinish (pos) {
+          onFinish () {
             root.$refs.bool.style.display = 'none'
             root.shopCar.add( root.info )
           }

@@ -3,7 +3,7 @@
   <div class="app-init scroll-box mine-page footer-hack">
     <div class="user-box public-padding">
       <div class="face-book">
-        <img @click="$router.openPage('/pay')" src="http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/normal-face.png" alt="">
+        <img @click="$router.openPage('/pay')" src="http://qiniu.verydog.cn/show.liluo.cc/normal-face.png" alt="">
       </div>
       <p class="fl" @click="$router.openPage('/pay')"> 登录 /  注册 </p>
     </div>
@@ -80,7 +80,7 @@
 
     .user-box
       height: getIphonese(142px)
-      background: #f37d0f url(http://oz3tayfme.bkt.clouddn.com/show.liluo.cc/bg.63c8e19.png) repeat top center
+      background: #f37d0f url(http://qiniu.verydog.cn/show.liluo.cc/bg.63c8e19.png) repeat top center
       background-size: 7.7rem
       @include box-sizing
       padding-top: getIphonese(28px)

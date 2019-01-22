@@ -5,18 +5,6 @@
     <div class="padding-box">
       <p>商城 功能, 布局 由本人实现，图片来源界面布局排版均防自 <span class="color">小米商城 m.mi.com</span></p>
       <br>
-      <p>商城所用的到技术</p>
-      <ul>
-        <li>vue-cli</li>
-        <li>vue 2.5.2</li>
-        <li>vue-router 3.0.1</li>
-        <li>vuex 3.0.1</li>
-        <li>axios 0.17.1</li>
-        <li>sass</li>
-        <li>lodash</li>
-      </ul>
-
-      <br>
       <p>联系我</p>
       <p>e-mail: millent@126.com</p>
       <p>github: github.com/jon-millent</p>

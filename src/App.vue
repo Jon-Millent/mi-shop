@@ -51,9 +51,7 @@
 <script>
   import Rem from '@/assets/js/rem'
   import { mapGetters } from 'vuex'
-
   new Rem();
-
   export default {
     name: 'app',
     data () {
@@ -64,7 +62,6 @@
     },
     watch: {
       '$route' (to, from) {
-
         if (from.query.time) {
           if (to.query.time > from.query.time) {
             this.transitionName = 'slide-go'
@@ -74,7 +71,6 @@
         } else {
           this.transitionName = 'slide-go'
         }
-
         this.nowUrl = to.fullPath
       }
     },
@@ -86,8 +82,6 @@
       leaveComp() {
         var resout = true;
         var base = ['home', 'classification', 'shoppingcart', 'mine'];
-
-
         for(var i=0; i<base.length; i++){
           if(this.isActive(base[i])){
             resout = false;
@@ -115,8 +109,4 @@
 <style lang="sass" type="text/sass">
   @import "./assets/sass/public"
   @import './assets/font/iconfont.css'
-
-
-
-
 </style>

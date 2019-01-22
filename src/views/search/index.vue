@@ -16,7 +16,7 @@
 
     <div class="my-body scroll-box">
       <ul class="resout">
-        <li class="item" v-for="target in getResoutItem" @click="$router.openPage(target.link)">{{ target.name }}</li>
+        <li class="item" v-for="(target, index) in getResoutItem" :key="index" @click="$router.openPage(target.link)">{{ target.name }}</li>
       </ul>
 
       <div class="title">热门搜索</div>
@@ -61,11 +61,11 @@
     mounted() {
       // 默认请求一遍
       // 由于为本地json 不对错误进行处理
-      axios.get('./static/server/lib.json')
+      axios.get('./server/lib.json')
         .then(response=> {
           this.resout = response.data.resout;
         })
-        .catch(error=> {
+        .catch(()=> {
           // this.$router.replace('/error/404')
         });
     },
