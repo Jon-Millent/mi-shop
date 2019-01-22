@@ -1,7 +1,7 @@
 <template>
   <div class="swiper-container vue-swiper" ref="swiper">
     <div class="swiper-wrapper">
-      <div class="swiper-slide" v-for="(x, index) in list">
+      <div class="swiper-slide" v-for="(x, index) in list" :key="index">
         <a href="javascript:;" @click="x.href ? $router.openPage(x.href) : ''"><img :src="x.src" :alt="x.alt || 'img'+index"></a>
       </div>
     </div>
@@ -47,7 +47,7 @@
       }, this.config))
     },
     watch: {
-      list(newval, oldVal){
+      list(){
         setTimeout(function () {
           myswiper.update();
         }, 10)

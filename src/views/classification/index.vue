@@ -7,18 +7,18 @@
     <div class="wrap-box">
       <div class="left-menu absolute scroll-box" ref="left">
         <ul>
-          <li class="item" v-for="(target, index) in dataItem" :class="{ 'active': index == active }" @click="jumpToTarget(index)">{{target.name}}</li>
+          <li class="item" v-for="(target, index) in dataItem" :key="index" :class="{ 'active': index == active }" @click="jumpToTarget(index)">{{target.name}}</li>
         </ul>
       </div>
 
       <div class="right-box absolute scroll-box" ref="rightView">
         <ul>
-          <li class="item" v-for="(target, index) in dataItem">
+          <li class="item" v-for="(target, index) in dataItem" :key="index">
             <p class="title">
               <span>{{target.name}}</span>
             </p>
             <div class="shop-item-wrap clear">
-              <div class="shop-item" v-for="shop in target.children" @click="$router.openPage(shop.link)">
+              <div class="shop-item" v-for="(shop, index) in target.children" :key="index" @click="$router.openPage(shop.link)">
                 <p><img :src="shop.src" alt=""></p>
                 <p class="name">{{shop.name}}</p>
               </div>
@@ -566,7 +566,7 @@
 
         var mySort = this.offset;
 
-        this.$refs.rightView.addEventListener('scroll', e=>{
+        this.$refs.rightView.addEventListener('scroll', ()=>{
 
           var eScrollTop = this.$refs.rightView.scrollTop;
 

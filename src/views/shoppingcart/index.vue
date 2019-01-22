@@ -9,7 +9,7 @@
       </div>
 
       <div class="shop-wrap shop-list-wrap" v-else>
-        <div class="shop-item clear" v-for="target in shopCarList">
+        <div class="shop-item clear" v-for="(target, index) in shopCarList" :key="index">
           <div class="shop-img fl" @click="$router.openPage(target.link)">
             <img :src="target.img" alt="">
           </div>
@@ -36,7 +36,7 @@
       <div class="shop-item">
         <div class="shop-box clear">
 
-          <div class="shop-box-item" v-for="target in shoplist" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index) in shoplist" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -122,8 +122,6 @@
     mounted() {
       this.shopCar = new ShopCarTool(this.$store)
       this.shopCarList = this.shopCar.getAll()
-
-      console.log(this.shopCarList)
     },
     computed: {
       shopCarListLength() {

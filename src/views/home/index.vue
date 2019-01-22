@@ -16,7 +16,7 @@
 
       <nav class="menu-box scroll-box-x noscroll">
         <ul class="wrap-box clear">
-          <li class="item" :class="{ 'active' : index == navListActiveIndex }" v-for="(value, index) in navList" @click="navChange(index)">
+          <li class="item" :class="{ 'active' : index == navListActiveIndex }" v-for="(value, index) in navList" @click="navChange(index)" :key="index">
             <span>{{value.name}}</span>
           </li>
         </ul>
@@ -64,7 +64,7 @@
       <div class="shop-item">
         <div class="shop-box clear">
 
-          <div class="shop-box-item" v-for="target in shoplist" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index) in shoplist" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -83,7 +83,7 @@
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
-          <div class="shop-box-item" v-for="target in shoplist01" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index) in shoplist01" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -100,7 +100,7 @@
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
-          <div class="shop-box-item" v-for="target in shoplist02" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index)  in shoplist02" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -117,7 +117,7 @@
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
-          <div class="shop-box-item" v-for="target in shoplist03" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index)  in shoplist03" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -134,7 +134,7 @@
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
-          <div class="shop-box-item" v-for="target in shoplist04" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index) in shoplist04" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -161,7 +161,7 @@
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
-          <div class="shop-box-item" v-for="target in shoplist06" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index) in shoplist06" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
@@ -178,7 +178,7 @@
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
-          <div class="shop-box-item" v-for="target in shoplist07" @click="$router.openPage(target.href)">
+          <div class="shop-box-item" v-for="(target, index) in shoplist07" :key="index" @click="$router.openPage(target.href)">
             <img v-lazy="target.src" alt="">
             <p class="title">{{ target.title }}</p>
             <p class="con">{{ target.con }}</p>
