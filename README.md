@@ -68,4 +68,4 @@ DEMO
 ## 请我喝杯咖啡，支持更多开源
 ![1024.png](https://i.loli.net/2018/07/25/5b57cb91a44a1.png)
 ## LICENSE
-<a href="http://opensource.org/licenses/MIT">MIT</a>
+<a href="https://github.com/Jon-Millent/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
