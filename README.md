@@ -7,9 +7,7 @@
   <a href="https://travis-ci.org/Jon-Millent/mi-shop" title="Build">
     <img src="https://travis-ci.org/Jon-Millent/mi-shop.svg?branch=master" alt="Build">
   </a>
-  <a href="https://opensource.org/licenses/mit-license.php">
-    <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103">
-  </a>
+  <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
   <a href="#">
     <img src="https://img.shields.io/github/package-json/v/jon-millent/faker.svg">
   </a>
