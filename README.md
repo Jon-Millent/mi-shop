@@ -9,7 +9,7 @@
   </a>
   <a href="https://github.com/Jon-Millent/mi-shop/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" /></a>
   <a href="#">
-    <img src="https://img.shields.io/github/package-json/v/jon-millent/faker.svg">
+    <img src="https://img.shields.io/github/package-json/v/jon-millent/mi-shop.svg">
   </a>
   <a href="#">
     <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103">
