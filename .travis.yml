@@ -13,5 +13,10 @@ cache:
   directories:
     - ".eslintcache"
     - "node_modules"
-
-after_script: "npm run build"
+    
+install:
+  - npm install
+  
+before_script:
+script:
+  - npm run build
