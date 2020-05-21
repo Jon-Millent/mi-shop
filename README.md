@@ -22,7 +22,7 @@ mi-shop
 </h1>
 
 <h4 align="center">
-vue项目-仿小米移动商城开源版，比官方小米商城还流畅。代码可自由更改，转载请注明出处，切勿用于商业用途。
+vue项目-仿小米移动商城开源版。代码可自由更改，转载请注明出处，切勿用于商业用途。
 </h4>
 
 
@@ -42,8 +42,8 @@ DEMO
 ```
   git clone https://github.com/Jon-Millent/mi-shop.git
   cd mi-shop
-  npm install
-  npm run dev
+  npm install & yarn
+  npm run serve
 ```
 ## Module
 * 首页
