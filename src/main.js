@@ -6,6 +6,13 @@ import router from './router'
 import store from './store/index'
 import VueLazyload from 'vue-lazyload'
 
+import VueAwesomeSwiper from 'vue-awesome-swiper'
+
+// import style
+import 'swiper/css/swiper.css'
+
+Vue.use(VueAwesomeSwiper)
+
 Vue.use(VueLazyload)
 
 // or with options
@@ -18,29 +25,14 @@ Vue.use(VueLazyload, {
 
 console.log('❤❤❤ 本程序由 jon-millent 编写， github@ github.com/jon-millent ❤❤❤')
 
-var domainCross = ['show.liluo.cc', 'show.thisummer.com']
-
 router.beforeEach((to, from, next)=>{
 
   store.commit('nowStatus', 'loading')
-  /*
-  if(domainCross.indexOf(location.host) != -1){
-    next()
-  }else{
-    if(to.name == 'error-110'){
-      next()
-    }else{
-      router.openPage('/error/110')
-      next()
-    }
-  }
-  */
-
   next();
 
 })
 
-router.afterEach((to, from, next)=>{
+router.afterEach(()=>{
   store.commit('nowStatus', 'end')
 
   setTimeout(()=>{

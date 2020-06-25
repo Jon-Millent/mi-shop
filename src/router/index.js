@@ -1,11 +1,10 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import _ from 'lodash'
 
 Router.prototype.openPage = function (link, query) {
   this.push({
     path: link,
-    query: _.assignIn({
+    query: Object.assign({
       time: new Date().getTime()
     }, query || {})
   })

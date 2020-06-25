@@ -27,7 +27,7 @@
 
 
     <div ref="view01" class="app-init scroll-box tab-box mi-tj footer-hack" v-show="navListActiveIndex == 0">
-      <swiper :list="bannerList"></swiper>
+      <swiper :list="bannerList" class="home-swiper"></swiper>
       <div class="nav-mi-tj clear">
         <a href="javascript:;" class="fl">
           <img @click="$router.openPage('/pay')" src="http://qiniu.verydog.cn//show.liluo.cc/2018011022292984819.png" alt="">
@@ -78,7 +78,7 @@
     </div>
 
     <div ref="view02" class="app-init scroll-box tab-box footer-hack" v-show="navListActiveIndex == 1">
-      <swiper :list="bannerList01"></swiper>
+      <swiper :list="bannerList01" class="home-swiper"></swiper>
 
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
@@ -96,7 +96,7 @@
     </div>
 
     <div ref="view03" class="app-init scroll-box tab-box footer-hack" v-show="navListActiveIndex == 2">
-      <swiper :list="bannerList02"></swiper>
+      <swiper :list="bannerList02" class="home-swiper"></swiper>
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
@@ -113,7 +113,7 @@
     </div>
 
     <div ref="view04" class="app-init scroll-box tab-box footer-hack" v-show="navListActiveIndex == 3">
-      <swiper :list="bannerList03"></swiper>
+      <swiper :list="bannerList03" class="home-swiper"></swiper>
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
@@ -130,7 +130,7 @@
     </div>
 
     <div ref="view05" class="app-init scroll-box tab-box footer-hack" v-show="navListActiveIndex == 4">
-      <swiper :list="bannerList04"></swiper>
+      <swiper :list="bannerList04" class="home-swiper"></swiper>
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
@@ -157,7 +157,7 @@
     </div>
 
     <div ref="view07" class="app-init scroll-box tab-box footer-hack" v-show="navListActiveIndex == 6">
-      <swiper :list="bannerList06"></swiper>
+      <swiper :list="bannerList06" class="home-swiper"></swiper>
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
@@ -174,7 +174,7 @@
     </div>
 
     <div ref="view08" class="app-init scroll-box tab-box footer-hack" v-show="navListActiveIndex == 7">
-      <swiper :list="bannerList07"></swiper>
+      <swiper :list="bannerList07" class="home-swiper"></swiper>
       <div class="shop-item">
         <img src="http://qiniu.verydog.cn//show.liluo.cc/2018011316464243450.png" alt="">
         <div class="shop-box clear">
@@ -685,6 +685,9 @@
 
   .home-index .tab-box
     top: 2.5rem
+    .home-swiper 
+      height: 5rem
+
   .home-index .tab-box.mi-tj .nav-mi-tj a
       display: block
       width:  25%
